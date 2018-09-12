@@ -20,10 +20,10 @@ Usage:
   render-markdown [OPTIONS] file
 
 Options:
-        --layout [STRING]     The markdown layout to use (Default is mixu-bootstrap-2col)
-  -l,   --live BOOLEAN        If the application should run in livereload mode
-  -of,  --outFile [STRING]    The name of the generated file (Default is index)
-  -o,   --outPath [STRING]    The output path (Default is out)
-  -p,   --pdf BOOLEAN         Render the pdf
-  -h,   --help                Display help and usage details
+  -f, --file    [STRING]    The name of the generated file (Default is index)
+      --layout  [STRING]    The markdown layout to use (Default is mixu-bootstrap-2col)
+  -l, --live    [BOOLEAN]   If the application should run in livereload mode
+  -p, --path    [STRING]    The output path (Default is out)
+      --pdf     [BOOLEAN]   Render the pdf
+  -h, --help                Display help and usage details
 ```
