@@ -1,6 +1,6 @@
 {
   "name": "render-markdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Render markdown as html (and if wanted as a pdf)",
   "repository": {
     "url": "https://github.com/hakla/render-markdown"
